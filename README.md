@@ -1,1 +1,3 @@
-# short-challenge-2
+#short-challenge-2
+
+debugging challenge
